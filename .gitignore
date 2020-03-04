@@ -224,3 +224,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Cython
+cygrpc.cpp
+*.a
+*.dll
+*.pyd
